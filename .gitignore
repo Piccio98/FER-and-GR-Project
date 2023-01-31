@@ -1,18 +1,6 @@
-
-.ipynb_checkpoints/Untitled-checkpoint.ipynb
-.ipynb_checkpoints/Gender Training-checkpoint.ipynb
+.ipynb_checkpoints/
 *.png
 *.jpg
-.ipynb_checkpoints/Emotions Training-checkpoint.ipynb
-.ipynb_checkpoints/VAR Project-checkpoint.ipynb
-Emotions Model/keras_metadata.pb
-Emotions Model/saved_model.pb
-Emotions Model/variables/variables.data-00000-of-00001
-Emotions Model/variables/variables.index
-Gender Model/keras_metadata.pb
-Gender Model/saved_model.pb
-Gender Model/variables/variables.data-00000-of-00001
-Gender Model/variables/variables.index
+Emotions Model/
+Gender Model/
 model_3.h5
-*.pb
-*.index
