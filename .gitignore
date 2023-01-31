@@ -14,8 +14,5 @@ Gender Model/saved_model.pb
 Gender Model/variables/variables.data-00000-of-00001
 Gender Model/variables/variables.index
 model_3.h5
-Gender Model/keras_metadata.pb
 *.pb
-Gender Model/variables/variables.index
 *.index
-Gender Model/keras_metadata.pb
